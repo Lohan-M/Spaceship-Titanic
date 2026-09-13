@@ -1,0 +1,16 @@
+.venv/ 
+__pycache__/ 
+*.py[cod] 
+.ipynb_checkpoints/ 
+
+# Environment variables / secrets 
+.env 
+.env.* 
+
+# Python tooling 
+.pytest_cache/ 
+.mypy_cache/ 
+
+# OS files 
+.DS_Store 
+Thumbs.db
